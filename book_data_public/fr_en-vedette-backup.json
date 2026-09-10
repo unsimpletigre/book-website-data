@@ -1,0 +1,32 @@
+[
+  {
+    "id": "",
+    "title": "",
+    "isWattpadBook": true,
+    "dateAdded": "2026-09-09T00:00:00.000Z",
+    "authors": ["Un Simple Tigre"],
+    "authorsWithLink": [
+      {
+        "author": "Un Simple Tigre",
+        "link": "https://www.wattpad.com/user/unsimpletigre"
+      }
+    ],
+    "cover": "book_covers\\",
+    "images": [
+      "book_images\\"
+    ],
+    "description": "",
+    "mainCategories": ["En vedette", "Wattpad"],
+    "subcategories": ["Fantasy"],
+    "language": "Français",
+    "socialLinks": [
+      "https://www.wattpad.com/user/unsimpletigre"
+    ],
+    "sellers": [
+      {
+        "title": "Wattpad",
+        "link": "https://www.wattpad.com/"
+      }
+    ]
+  }
+]

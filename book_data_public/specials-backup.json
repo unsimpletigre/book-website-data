@@ -1,0 +1,16 @@
+[
+  {
+    "src": "ad-media\\merci-de-soutenir.webp",
+    "type": "image",
+    "language": "Français",
+    "externalLink": "https://www.wattpad.com/user/unsimpletigre",
+    "backgroundColor": "white"
+  },
+  {
+    "src": "ad-media\\thank-you-for-supporting.webp",
+    "type": "image",
+    "language": "English",
+    "externalLink": "https://www.wattpad.com/user/unsimpletigre",
+    "backgroundColor": "white"
+  }
+]
