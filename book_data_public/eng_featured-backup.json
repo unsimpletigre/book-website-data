@@ -1,0 +1,32 @@
+[
+  {
+    "id": "",
+    "title": "",
+    "isWattpadBook": true,
+    "dateAdded": "2026-09-09T00:00:00.000Z",
+    "authors": ["A Simple Tiger"],
+    "authorsWithLink": [
+      {
+        "author": "A Simple Tiger",
+        "link": "https://www.wattpad.com/user/unsimpletigre"
+      }
+    ],
+    "cover": "book_covers\\",
+    "images": [
+      "book_images\\"
+    ],
+    "description": "",
+    "mainCategories": ["Featured", "Wattpad"],
+    "subcategories": ["Fantasy"],
+    "language": "English",
+    "socialLinks": [
+      "https://www.wattpad.com/user/unsimpletigre"
+    ],
+    "sellers": [
+      {
+        "title": "Wattpad",
+        "link": "https://www.wattpad.com/"
+      }
+    ]
+  }
+]
